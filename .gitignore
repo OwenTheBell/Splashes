@@ -1,1 +1,71 @@
+/bin/*
+!/bin/data/
+
+#########
+# general
+#########
+
+[Bb]uild/
+[Oo]bj/
+*.o
+[Dd]ebug/
+[Rr]elease/
+*.mode*
+*.app/
+*.pyc
+.svn/
+*.log
+
+##############
+# IDE specific
+##############
+
+#Xcode
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+# Xcode 4
+xcuserdata
+*xcworkspace
+
+# Visual Studio
+*.sdf
+*.opensdf
+*.suo
+*.pdb
+*.ilk
+*.aps
+ipsh/
+
+# Visual Studio Code
 .vscode/
+
+##################
+# operating system
+##################
+
+# Linux
+
+*~
+# KDE
+.directory
+.AppleDouble
+
+# OSX
+.DS_STORE
+*.swp
+*~.nib
+# Thumbnails
+._*
+
+# Windows
+# Image file caches
+Thumbs.db
+
+# Folder config files
+Desktop.ini
+
+# Android
+.csettings
