@@ -1,1 +1,1 @@
-![alt tag](https://github.com/OwenTheBell/Splashes/blob/master/Splashes_trimmed.gif)
+![alt tag](https://github.com/OwenTheBell/Splashes/blob/master/Splashes.gif)
